@@ -45,9 +45,6 @@ function ageCalculate() {
             birthYear--;
         }
     }
-
-    console.log(birthYear, birthMonth, birthDate);
-
     displayResult(birthYear, birthMonth, birthDate);
 }
 
